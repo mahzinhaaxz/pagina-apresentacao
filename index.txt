@@ -1,4 +1,4 @@
-MENU: Início | Sobre | Contacto
+             MENU: Início | Sobre | Contacto | Fotos
 LISBOA
 
 -Lisboa é muito mais do que uma cidade para mim. É um lugar onde guardo algumas das memórias mais bonitas da minha vida, 
