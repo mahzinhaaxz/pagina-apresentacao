@@ -1,6 +1,7 @@
 # pagina-apresentacao
 
-Lisboa, uma apresentação 
+Lisboa, 
+
 Este repositório foi criado para a UC00617 (Git e GitHub).
 
  Descrição
